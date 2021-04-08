@@ -1,6 +1,7 @@
 # pythonpro
 Modulo para exemplificar a construção de projetos no curso PyTools  
 Nesse curso é ensinado como contribuir com projetos de código aberto
+[![Build Status](https://travis-ci.org/juliomsouza/pythonpro.svg?branch=main)](https://travis-ci.org/juliomsouza/pythonpro)
 
 Suportado a versão 3 de Python
 Para instalar:
@@ -13,3 +14,4 @@ Para conferir o código:
 '''console
 flake8
 '''
+
