@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 [![Updates](https://pyup.io/repos/github/juliomsouza/pythonpro/shield.svg)](https://pyup.io/repos/github/juliomsouza/pythonpro/)
 
+[![Python 3](https://pyup.io/repos/github/juliomsouza/pythonpro/python-3-shield.svg)](https://pyup.io/repos/github/juliomsouza/pythonpro/)
+
 Suportado a versão 3 de Python
 Para instalar:
 '''console
