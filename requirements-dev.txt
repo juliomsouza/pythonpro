@@ -43,4 +43,5 @@ zipp==3.4.1
 #Converage
 coverage==5.5
 pytest-cov==2.11.1
+pytest-mock==3.5.1
 -r requirements.txt
